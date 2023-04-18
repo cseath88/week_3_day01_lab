@@ -1,0 +1,32 @@
+#body-header {
+    background-color: dodgerblue;
+    color: white;
+    margin: 0;
+    padding: 16px;
+
+}
+
+body > #body-header > nav > ul > li > a {
+    color: white;
+}
+
+body > #body-header > nav > ul{
+    list-style: none
+}
+
+body > footer > p {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+
+main > article {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+body > img.img-one {
+    height: 20%;
+    width: 20%;
+}
